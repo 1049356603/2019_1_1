@@ -1,0 +1,23 @@
+{
+  "name": "2019_1_1",
+  "version": "1.0.0",
+  "description": "练习",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1049356603/2019_1_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1049356603/2019_1_1/issues"
+  },
+  "homepage": "https://github.com/1049356603/2019_1_1#readme",
+  "devDependencies": {
+    "gulp-uglify": "^3.0.1"
+  }
+}
